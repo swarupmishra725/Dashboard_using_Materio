@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "uniqueVendorId": "j072760",
+    "otherTradingName": "xyz traders",
+    "soleTrader": "Yes",
+    "registrationNumber": "1234567890",
+    "country": "United Kingdom",
+    "vendorStatus": "Pending Verification",
+    "customerAreSelfServe": "No: Vendor Uploads for Customers"
+  },
+  {
+    "id": 2,
+    "uniqueVendorId": "j072740",
+    "otherTradingName": "abc traders",
+    "soleTrader": "Yes",
+    "registrationNumber": "0987654321",
+    "country": "United Kingdom",
+    "vendorStatus": "Pending Verification",
+    "customerAreSelfServe": "No: Vendor Uploads for Customers"
+  },
+  {
+    "id": 3,
+    "uniqueVendorId": "j072750",
+    "otherTradingName": "pqr traders",
+    "soleTrader": "Yes",
+    "registrationNumber": "5647382910",
+    "country": "United Kingdom",
+    "vendorStatus": "Pending Verification",
+    "customerAreSelfServe": "No: Vendor Uploads for Customers"
+  },
+  {
+    "uniqueVendorId": "1234",
+    "otherTradingName": "bhabha",
+    "soleTrader": "No",
+    "registrationNumber": "123456",
+    "country": "India",
+    "vendorStatus": "Inactive",
+    "customerAreSelfServe": "Yes: Customer Uploads by self",
+    "id": 4
+  },
+  {
+    "uniqueVendorId": "1234",
+    "otherTradingName": "bhabha",
+    "soleTrader": "No",
+    "registrationNumber": "12345rt555",
+    "country": "Germany",
+    "vendorStatus": "Verified",
+    "customerAreSelfServe": "Yes: Customer Uploads by self",
+    "id": 5
+  },
+  {
+    "uniqueVendorId": "1234",
+    "otherTradingName": "bhabha",
+    "soleTrader": "No",
+    "registrationNumber": "123456",
+    "country": "United Kingdom",
+    "vendorStatus": "Pending Verification",
+    "customerAreSelfServe": "No: Vendor Uploads for Customers",
+    "id": 6
+  },
+  {
+    "uniqueVendorId": "j072760",
+    "otherTradingName": "lmno traders",
+    "soleTrader": "Yes",
+    "registrationNumber": "i3j2022",
+    "country": "United Kingdom",
+    "vendorStatus": "Inactive",
+    "customerAreSelfServe": "Yes: Customer Uploads by self",
+    "id": 7
+  }
+]
