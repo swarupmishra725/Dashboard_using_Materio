@@ -1,7 +1,7 @@
 pipeline{
     agent{
         docker{
-        
+            image 'selenium/standalone-firefox:3.141.59-gold'
             args '-p 3030:3030'
         }
     }
